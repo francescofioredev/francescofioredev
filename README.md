@@ -12,7 +12,7 @@ Currently crafting enterprise-grade cloud solutions at **Fincons Group** and bui
 
 ---
 
-## 🧰 Tech Toolbelt
+## 🧰 Tech Toolbox
 
 ### ☁️ Cloud & DevOps
 

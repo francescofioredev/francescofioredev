@@ -1,12 +1,14 @@
 # Hi, I’m Francesco 👋
 
-I'm a computer engineer with over 6 years of experience crafting enterprise-grade, cloud-native solutions. By day, I work as a Senior Software Engineer at Fincons Group, helping enterprise clients tackle mission-critical projects. In my spare time, I'm the CTO and co-founder of The Niksen Company, an AI-driven startup dedicated to enhancing digital wellbeing.
+🚀 **Senior Software Engineer** by day, **Startup CTO** by night. Passionate about turning complex ideas into elegant, scalable software solutions.
 
-My passion lies in designing robust software architectures, automating workflows with DevOps, and building scalable products that genuinely simplify people's lives. I've gained extensive experience across microservices, backend development, cloud infrastructure (AWS), API design, and mobile development using cutting-edge tech such as Python, FastAPI, and React Native.
+Currently crafting enterprise-grade cloud solutions at **Fincons Group** and building an AI-driven, digital wellbeing app at **The Niksen Company**.
 
-🔧 **Preferred stack:** FastAPI, MongoDB, DynamoDB, AWS (Terraform IaC), GitHub Actions, Docker, React Native
+💡 **What drives me?** Beautifully engineered software, impactful architecture, seamless automation, and innovative products that genuinely simplify lives.
 
-🎯 **Goal:** Deliver elegant, sustainable, and impactful solutions combining top-notch performance, scalability, and tangible user value.
+🔧 **Core Stack:** FastAPI · AWS (Terraform) · MongoDB/DynamoDB · React Native · Docker/K8s · GitHub Actions
+
+🎯 **My vision:** Creating tech solutions that aren’t just powerful and scalable, but delightful and meaningful to users.
 
 ---
 
